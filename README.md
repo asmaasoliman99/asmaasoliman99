@@ -1,5 +1,7 @@
 # Hi there, I'm Asmaa Soliman 👋
 
+<img width="1584" height="396" alt="Hey Everyone" src="https://github.com/user-attachments/assets/ffa5d409-cdb5-4d9a-8d42-d4444af7fc5a" />
+
 ### 🚀 Front-End Developer | React Specialist
 Passionate about building clean, interactive, and user-centric web applications. Currently honing my skills in modern web technologies and software engineering.
 
