@@ -1,11 +1,7 @@
 <div align="center">
 
-<div align="left">
-  <img src="./GITHUB.png" width="100" style="border-radius: 50%;" />
-  <h1>Asmaa Soliman</h1>
-  <p><b>Frontend Developer — React · Angular</b></p>
-  <p><i>✦ Building things that are both functional and beautiful ✦</i></p>
-</div>
+<img width="1584" height="396" alt="Hey Everyone" src="https://github.com/user-attachments/assets/ffa5d409-cdb5-4d9a-8d42-d4444af7fc5a" />
+
 
 <svg width="800" height="160" viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg">
   <rect width="800" height="160" rx="16" fill="#1a0a0a"/>
