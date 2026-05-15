@@ -1,49 +1,47 @@
-# Hi there, I'm Asmaa Soliman 👋
+# <img src="https://fonts.gstatic.com/s/i/googlematerialicons/rocket_launch/v15/24px.svg" width="25" /> Asmaa Soliman
 
-<img width="1584" height="396" alt="Hey Everyone" src="https://github.com/user-attachments/assets/ffa5d409-cdb5-4d9a-8d42-d4444af7fc5a" />
+> **Front-End Developer · Full-Stack Trainee**
+> 
+> Passionate about building clean, interactive, and user-centric web applications. 
+> Currently honing skills in modern web technologies and software engineering.
 
-### 🚀 Front-End Developer | React Specialist
-Passionate about building clean, interactive, and user-centric web applications. Currently honing my skills in modern web technologies and software engineering.
-
-
-<div align="left">
-
-  <!-- Gmail -->
-  <a href="mailto:asmaasoliman191999@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-
-  <!-- GitHub -->
-  <a href="https://github.com/asmaasoliman99">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/asmaa-soliman-366842364">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-
-</div>
-
-<div align="left">
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=asmaasoliman99&color=green&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
 ---
 
-
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
 | Category | Technologies |
-| --- | --- |
-| **Languages & Core** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) |
-| **Backend & DB** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) |
-| **Design & Tools** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| :--- | :--- |
+| **<font color="#FD7979">Languages</font>** | ![JavaScript](https://img.shields.io/badge/JavaScript-FF1493?style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-FF69B4?style=for-the-badge&logo=typescript&logoColor=white) |
+| **<font color="#FD7979">Frontend</font>** | ![React](https://img.shields.io/badge/React-FF85B3?style=for-the-badge&logo=react&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-FD5DA8?style=for-the-badge&logo=angular&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-F52887?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-E75480?style=for-the-badge&logo=bootstrap&logoColor=white) |
+| **<font color="#FD7979">Backend</font>** | ![Node.js](https://img.shields.io/badge/Node.js-C71585?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-DB7093?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-DE3163?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-AD0676?style=for-the-badge&logo=mysql&logoColor=white) |
+| **<font color="#FD7979">Tools</font>** | ![Figma](https://img.shields.io/badge/Figma-FFC0CB?style=for-the-badge&logo=figma&logoColor=black) ![Git](https://img.shields.io/badge/Git-FFB6C1?style=for-the-badge&logo=git&logoColor=black) |
 
 ---
 
 ### 💻 Current Focus
-- 🔭 Working on: **La Rosa Flower Shop** (Angular/React).
-- 🌱 Learning: Advanced UI/UX Design & Scalable Architectures.
-- 🎓 Student at: Information Technology Institute (**ITI**).
+
+<table>
+  <tr>
+    <td width="33%" align="center" bgcolor="#FFF5F5">
+      <br>🔭<br><b>Working on</b><br><p>La Rosa Flower Shop</p>
+    </td>
+    <td width="33%" align="center" bgcolor="#FFF5F5">
+      <br>🌱<br><b>Learning</b><br><p>Advanced UI/UX</p>
+    </td>
+    <td width="33%" align="center" bgcolor="#FFF5F5">
+      <br>🎓<br><b>Trainee at</b><br><p>ITI Fayoum</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📫 Connect with me
+
+<p align="left">
+  <a href="mailto:asmaasoliman191999@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF1493?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/asmaa-soliman-366842364"><img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/asmaasoliman99"><img src="https://img.shields.io/badge/GitHub-DB7093?style=flat-square&logo=github&logoColor=white" /></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=asmaasoliman99&color=ff69b4&style=flat-square&label=PROFILE+VIEWS" alt="asmaasoliman99" />
