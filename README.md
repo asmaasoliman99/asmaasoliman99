@@ -1,7 +1,6 @@
 <div align="center">
 
-<img width="1584" height="396" alt="Hey Everyone" src="https://github.com/user-attachments/assets/ffa5d409-cdb5-4d9a-8d42-d4444af7fc5a" />
-
+<img width="1584" height="396" alt="GITHUB" src="https://github.com/user-attachments/assets/cf58af86-c004-498d-ad91-7fc4ae0e616c" />
 
 <svg width="800" height="160" viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg">
   <rect width="800" height="160" rx="16" fill="#1a0a0a"/>
