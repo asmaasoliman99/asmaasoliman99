@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./GITHUB" width="200" />
+
 <svg width="800" height="160" viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg">
   <rect width="800" height="160" rx="16" fill="#1a0a0a"/>
   <circle cx="720" cy="-20" r="120" fill="#FD7979" opacity="0.15"/>
