@@ -50,9 +50,9 @@
 
 ### ✦ Currently
 
-- 🌸 Working on: **La Rosa Flower Shop** — Angular / React
-- 🌱 Deepening: Advanced UI/UX Design & Scalable Architectures
-- ✨ Exploring: Better UI/UX & component design systems
+- 🌸 Working on: **Graduation project** 
+- 🌱 StrawBaekery: Next project.
+- ✨ Exploring: Better UI/UX & component design systems 
 
 ---
 
@@ -60,8 +60,8 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| 🌹 La Rosa Flower Shop | E-commerce flower shop app | React · Angular |
-| 🛒 E-Commerce App | Product listing, cart & filter | React · Node.js |
+| 🌹 La Rosa Flower Shop | E-commerce flower shop app | Angular |
+| 🛒 Decora | E-Commerce App | Furniture application |Product listing, cart & filter | JavaScript |
 | 🎨 Portfolio | Personal dev portfolio | React · Tailwind |
 
 ---
