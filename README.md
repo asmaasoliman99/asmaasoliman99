@@ -6,7 +6,7 @@
   <rect width="800" height="160" rx="16" fill="#1a0a0a"/>
   <circle cx="720" cy="-20" r="120" fill="#FD7979" opacity="0.15"/>
   <circle cx="80" cy="180" r="100" fill="#FDACAC" opacity="0.1"/>
-  <text x="400" y="72" font-family="Georgia,serif" font-size="44" font-weight="700" fill="#FD7979" text-anchor="middle">Asmaa Soliman</text>
+  <text x="400" y="72" font-family="Georgia,serif" font-size="44" font-weight="700" fill="#FEEAC9" text-anchor="middle">Asmaa Soliman</text>
   <text x="400" y="110" font-family="Arial,sans-serif" font-size="17" fill="#FFCDC9" text-anchor="middle">Frontend Developer — React · Angular</text>
 </svg>
 
