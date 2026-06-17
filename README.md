@@ -11,26 +11,32 @@
 </svg>
 
 </div>
-
 <!-- Animated Wave -->
 <svg width="100%" height="120" viewBox="0 0 1440 320" xmlns="http://www.w3.org/2000/svg">
   <path 
-    fill="#FD7979" 
+    fill="#FD7979"
     fill-opacity="0.35">
     
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      from="0 0"
+      to="-100 0"
+      dur="4s"
+      repeatCount="indefinite"/>
+      
     <animate 
       attributeName="d"
       dur="6s"
       repeatCount="indefinite"
       values="
-      M0,160 C360,220 1080,80 1440,160 L1440,320 L0,320 Z;
-      M0,120 C360,40 1080,240 1440,120 L1440,320 L0,320 Z;
-      M0,160 C360,220 1080,80 1440,160 L1440,320 L0,320 Z"
-    />
+      M0 160 C360 220 1080 80 1440 160 V320 H0 Z;
+      M0 120 C360 40 1080 240 1440 120 V320 H0 Z;
+      M0 160 C360 220 1080 80 1440 160 V320 H0 Z"/>
   </path>
 
   <path 
-    fill="#FFCDC9" 
+    fill="#FFCDC9"
     fill-opacity="0.25">
     
     <animate 
@@ -38,13 +44,11 @@
       dur="8s"
       repeatCount="indefinite"
       values="
-      M0,180 C400,260 1000,100 1440,180 L1440,320 L0,320 Z;
-      M0,100 C400,20 1000,240 1440,100 L1440,320 L0,320 Z;
-      M0,180 C400,260 1000,100 1440,180 L1440,320 L0,320 Z"
-    />
+      M0 180 C400 260 1000 100 1440 180 V320 H0 Z;
+      M0 100 C400 20 1000 240 1440 100 V320 H0 Z;
+      M0 180 C400 260 1000 100 1440 180 V320 H0 Z"/>
   </path>
 </svg>
-
 <div align="center">
 
 ✦ *Building things that are both functional and beautiful* ✦
