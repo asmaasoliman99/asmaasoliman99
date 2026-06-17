@@ -11,11 +11,18 @@
 </svg>
 
 <svg width="100%" height="150" viewBox="0 0 1440 320" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
-  <path fill="#FFCDC9" fill-opacity="0.25">
-    <animate attributeName="d" dur="10s" repeatCount="indefinite" values="M0,160 C320,300 820,300 1440,160 V320 H0 Z; M0,190 C320,100 820,100 1440,190 V320 H0 Z; M0,160 C320,300 820,300 1440,160 V320 H0 Z"/>
+  <defs>
+    <linearGradient id="waveGradient" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#FD7979"/>
+      <stop offset="50%" stop-color="#FDACAC"/>
+      <stop offset="100%" stop-color="#FFCDC9"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#waveGradient)" fill-opacity="0.5">
+    <animate attributeName="d" dur="12s" repeatCount="indefinite" values="M0,160 C320,300 820,300 1440,160 V320 H0 Z; M0,190 C320,100 820,100 1440,190 V320 H0 Z; M0,160 C320,300 820,300 1440,160 V320 H0 Z"/>
   </path>
-  <path fill="#FD7979" fill-opacity="0.40">
-    <animate attributeName="d" dur="7s" repeatCount="indefinite" values="M0,220 C320,150 820,150 1440,220 V320 H0 Z; M0,190 C320,300 820,300 1440,190 V320 H0 Z; M0,220 C320,150 820,150 1440,220 V320 H0 Z"/>
+  <path fill="#FEEAC9" fill-opacity="0.4">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0,220 C320,150 820,150 1440,220 V320 H0 Z; M0,190 C320,300 820,300 1440,190 V320 H0 Z; M0,220 C320,150 820,150 1440,220 V320 H0 Z"/>
   </path>
 </svg>
 
