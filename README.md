@@ -10,46 +10,14 @@
   <text x="400" y="110" font-family="Arial,sans-serif" font-size="17" fill="#FFCDC9" text-anchor="middle">Frontend Developer — React · Angular</text>
 </svg>
 
-</div>
-<!-- Animated Wave -->
-<svg width="100%" height="120" viewBox="0 0 1440 320" xmlns="http://www.w3.org/2000/svg">
-  <path 
-    fill="#FD7979"
-    fill-opacity="0.35">
-    
-    <animateTransform
-      attributeName="transform"
-      type="translate"
-      from="0 0"
-      to="-100 0"
-      dur="4s"
-      repeatCount="indefinite"/>
-      
-    <animate 
-      attributeName="d"
-      dur="6s"
-      repeatCount="indefinite"
-      values="
-      M0 160 C360 220 1080 80 1440 160 V320 H0 Z;
-      M0 120 C360 40 1080 240 1440 120 V320 H0 Z;
-      M0 160 C360 220 1080 80 1440 160 V320 H0 Z"/>
+<svg width="100%" height="150" viewBox="0 0 1440 320" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#FFCDC9" fill-opacity="0.25">
+    <animate attributeName="d" dur="10s" repeatCount="indefinite" values="M0,160 C320,300 820,300 1440,160 V320 H0 Z; M0,190 C320,100 820,100 1440,190 V320 H0 Z; M0,160 C320,300 820,300 1440,160 V320 H0 Z"/>
   </path>
-
-  <path 
-    fill="#FFCDC9"
-    fill-opacity="0.25">
-    
-    <animate 
-      attributeName="d"
-      dur="8s"
-      repeatCount="indefinite"
-      values="
-      M0 180 C400 260 1000 100 1440 180 V320 H0 Z;
-      M0 100 C400 20 1000 240 1440 100 V320 H0 Z;
-      M0 180 C400 260 1000 100 1440 180 V320 H0 Z"/>
+  <path fill="#FD7979" fill-opacity="0.40">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite" values="M0,220 C320,150 820,150 1440,220 V320 H0 Z; M0,190 C320,300 820,300 1440,190 V320 H0 Z; M0,220 C320,150 820,150 1440,220 V320 H0 Z"/>
   </path>
 </svg>
-<div align="center">
 
 ✦ *Building things that are both functional and beautiful* ✦
 
@@ -64,7 +32,6 @@
 ---
 
 ### ✦ About me
-
 - 🖥️ Frontend Developer with a passion for clean, interactive UI
 - 🎓 ITI — Information Technology Institute
 - 💅 I care about clean code, thoughtful UI & pixel-perfect details
@@ -75,30 +42,20 @@
 ---
 
 ### ✦ Tech Stack
-
 | | |
 |---|---|
 | **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-FEEAC9?style=flat-square&logo=javascript&logoColor=1a0a0a) ![TypeScript](https://img.shields.io/badge/TypeScript-FFCDC9?style=flat-square&logo=typescript&logoColor=1a0a0a) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-FEEAC9?style=flat-square&logo=react&logoColor=1a0a0a) ![Angular](https://img.shields.io/badge/Angular-FFCDC9?style=flat-square&logo=angular&logoColor=1a0a0a) ![Tailwind](https://img.shields.io/badge/Tailwind-FDACAC?style=flat-square&logo=tailwind-css&logoColor=1a0a0a) ![Bootstrap](https://img.shields.io/badge/Bootstrap-FD7979?style=flat-square&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-FEEAC9?style=flat-square&logo=html5&logoColor=1a0a0a) ![CSS3](https://img.shields.io/badge/CSS3-FFCDC9?style=flat-square&logo=css3&logoColor=1a0a0a) |
-| **Backend & DB** | ![Node.js](https://img.shields.io/badge/Node.js-FEEAC9?style=flat-square&logo=node.js&logoColor=1a0a0a) ![Express](https://img.shields.io/badge/Express-FFCDC9?style=flat-square&logo=express&logoColor=1a0a0a) ![MongoDB](https://img.shields.io/badge/MongoDB-FDACAC?style=flat-square&logo=mongodb&logoColor=1a0a0a) ![MySQL](https://img.shields.io/badge/MySQL-FD7979?style=flat-square&logo=mysql&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-FEEAC9?style=flat-square&logo=graphql&logoColor=1a0a0a) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-FEEAC9?style=flat-square&logo=react&logoColor=1a0a0a) ![Angular](https://img.shields.io/badge/Angular-FFCDC9?style=flat-square&logo=angular&logoColor=1a0a0a) ![Tailwind](https://img.shields.io/badge/Tailwind-FDACAC?style=flat-square&logo=tailwind-css&logoColor=1a0a0a) ![Bootstrap](https://img.shields.io/badge/Bootstrap-FD7979?style=flat-square&logo=bootstrap&logoColor=white) |
+| **Backend & DB** | ![Node.js](https://img.shields.io/badge/Node.js-FEEAC9?style=flat-square&logo=node.js&logoColor=1a0a0a) ![MongoDB](https://img.shields.io/badge/MongoDB-FDACAC?style=flat-square&logo=mongodb&logoColor=1a0a0a) ![MySQL](https://img.shields.io/badge/MySQL-FD7979?style=flat-square&logo=mysql&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-FFCDC9?style=flat-square&logo=git&logoColor=1a0a0a) ![Figma](https://img.shields.io/badge/Figma-FDACAC?style=flat-square&logo=figma&logoColor=1a0a0a) |
 
 ---
 
-### ✦ Currently
-
-- 🌸 Working on: **Graduation project** 
-- 🌱 StrawBaekery: Next project.
-- ✨ Exploring: Better UI/UX & component design systems 
-
----
-
 ### ✦ Featured Projects
-
 | Project | Description | Stack |
 |---|---|---|
 | 🌹 La Rosa Flower Shop | E-commerce flower shop app | Angular |
-| 🛒 Decora | E-Commerce App | Furniture application |Product listing, cart & filter | JavaScript |
+| 🛒 Decora | E-Commerce App | JavaScript |
 | 🎨 Portfolio | Personal dev portfolio | React · Tailwind |
 
 ---
